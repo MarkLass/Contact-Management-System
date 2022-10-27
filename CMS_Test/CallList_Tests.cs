@@ -1,7 +1,6 @@
 using Contact_Management_System.EndpointDefinitions;
 using Contact_Management_System.Models;
 using Contact_Management_System.Repositories;
-using Contact_Management_System.Utility;
 
 namespace CMS_Test
 {
